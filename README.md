@@ -1,10 +1,10 @@
 # A simple task list manager using React.js-Node-MySQL
 
 
-# CRUD method applied, with a simple login and sign up features.
+CRUD method applied, with a simple login and sign up features.
 
 
-# This code's database dump in database folder (taskdb)
+This code's database dump in database folder (taskdb)
 
 
 # Step-by-Step to setup this code
